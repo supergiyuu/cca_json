@@ -2,7 +2,7 @@ import { useNavigate } from "react-router-dom";
 
 const floorImages = [
   { label: "1st Floor", src: "https://i.imgur.com/gip5Xnc.jpeg", id: "1" },
-  { label: "2nd Floor", src: "https://i.imgur.com/PzD2pJl.jpeg", id: "2" },
+  { label: "2nd Floor", src: "https://imgur.com/a/2nd-MFGc3Jw", id: "2" },
   { label: "3rd Floor", src: "https://i.imgur.com/hAtq3G7.jpeg", id: "3" },
   { label: "4th Floor", src: "https://i.imgur.com/Y89sT2s.jpeg", id: "4" },
 ];
